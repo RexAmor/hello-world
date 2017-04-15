@@ -1,2 +1,2 @@
 # hello-world
-getting started
+Hi I'm Rex Amor. Nice to meet you.
